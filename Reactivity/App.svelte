@@ -2,6 +2,7 @@
 	let count = 1
 
 	$: doubled = count * 2
+ㅁㄴㅇㄹ
 
 	$: if(count >= 10){
 		alert('10을 넘었습니다')
